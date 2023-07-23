@@ -18,4 +18,6 @@ Development Orientated Setup
 
 ```wsl --install``` - Currently installs Ubuntu 22.04
 
-[Detailed Linux/Ubunta Installation](https://github.com/MarkGravestock/linux-setup)
+[Full WSL installation details](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+[Detailed Linux/Ubuntu Installation](https://github.com/MarkGravestock/linux-setup)
