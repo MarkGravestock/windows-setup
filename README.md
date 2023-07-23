@@ -2,10 +2,12 @@
 
 Development Orientated Setup
 
-### Winget Installs
+#### Winget Installs
 
 ```winget install Docker.DockerDesktop```
+
 ```winget install JetBrains.Toolbox```
+
 ```winget install JAMSoftware.TreeSize.Free```
 
 #### Scoop Installs
