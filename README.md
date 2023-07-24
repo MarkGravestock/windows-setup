@@ -14,6 +14,8 @@ Development Orientated Setup
 
 ```iwr -useb get.scoop.sh | iex```
 
+```scoop install nodejs```
+
 #### Linux
 
 ```wsl --install``` - Currently installs Ubuntu 22.04
