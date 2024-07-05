@@ -4,6 +4,12 @@ Development Orientated Setup
 
 #### Winget Installs
 
+Install in bulk
+
+```winget import -i .\WinGet\winget.json```
+
+Install individually e.g.
+
 ```winget install Docker.DockerDesktop```
 
 ```winget install JetBrains.Toolbox```
