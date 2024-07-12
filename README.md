@@ -20,7 +20,9 @@ Install individually e.g.
 
 ```iwr -useb get.scoop.sh | iex```
 
-```scoop install nodejs```
+```scoop install nvm```
+
+```nvm install 18```
 
 #### Linux
 
