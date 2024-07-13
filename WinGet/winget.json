@@ -30,6 +30,9 @@
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.8"
+				},
 			],
 			"SourceDetails" : 
 			{
