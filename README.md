@@ -18,11 +18,17 @@ Install individually e.g.
 
 #### Scoop Installs
 
-```iwr -useb get.scoop.sh | iex```
+``` Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression```
 
 ```scoop install nvm```
 
 ```nvm install 18```
+
+##### Java
+
+```scoop bucket add java```
+
+See [JDK 21 Example](https://scoop.sh/#/apps?q=java+21)
 
 #### Linux
 
